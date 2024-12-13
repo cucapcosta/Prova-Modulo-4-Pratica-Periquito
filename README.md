@@ -26,9 +26,8 @@
 <img src="imagens/capturas/amareloNoturnoDesligado.png"><br>___________________________________________<br>
 <img src="imagens/capturas/amareloNoturnoLigado.png"><br>___________________________________________<br>
 <img src="imagens/capturas/convencionalVerdeLigado.png"><br>___________________________________________<br>
-<img src="imagens/capturas/requisicaoHTTP.png"><br>___________________________________________<br>
 <img src="imagens/capturas/vermelhoPressionado.png"><br>
-
+<img src="imagens/capturas/requisicaoHTTP.png"><br>___________________________________________<br>
 # Principais problemas de fazer esse exercício no Wokwi:
 
 <img src="imagens/errosWokwi/erroWifi.png"><br>
